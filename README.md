@@ -37,7 +37,7 @@ To run this project, it's recommended to use a Google Colab environment with a G
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/novaisDiogo/summary_transcript_audio.git
 ````
 
 ### Add your Hugging Face Token
